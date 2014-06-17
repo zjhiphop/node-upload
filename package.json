@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "mime": "~1.2.11",
+        "formidable": "~1.0.14"
+    }
+}
